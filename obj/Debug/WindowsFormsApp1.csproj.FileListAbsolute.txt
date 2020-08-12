@@ -1,0 +1,30 @@
+C:\Users\SETA\Projeler\Visual Studio\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\SETA\Projeler\Visual Studio\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\SETA\Projeler\Visual Studio\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\SETA\Projeler\Visual Studio\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\SETA\Projeler\Visual Studio\Goruntu_Isleme_Tam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\SETA\Projeler\Visual Studio\Goruntu_Isleme_Tam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\SETA\Projeler\Visual Studio\Goruntu_Isleme_Tam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\SETA\Projeler\Visual Studio\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\SETA\Projeler\Visual Studio\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\SETA\Projeler\Visual Studio\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\SETA\Ders\Goruntu_Isleme_Tam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SETA\Ders\Goruntu_Isleme_Tam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SETA\Ders\Goruntu_Isleme_Tam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SETA\Ders\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\SETA\Ders\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\SETA\Ders\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\SETA\Ders\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SETA\Ders\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\SETA\Ders\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SETA\Ders\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\SETA\Ders\4. Sınıf\Güz\Sayısal Görüntü İşleme\Goruntu_Isleme_Tam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SETA\Ders\4. Sınıf\Güz\Sayısal Görüntü İşleme\Goruntu_Isleme_Tam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SETA\Ders\4. Sınıf\Güz\Sayısal Görüntü İşleme\Goruntu_Isleme_Tam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SETA\Ders\4. Sınıf\Güz\Sayısal Görüntü İşleme\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\SETA\Ders\4. Sınıf\Güz\Sayısal Görüntü İşleme\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\SETA\Ders\4. Sınıf\Güz\Sayısal Görüntü İşleme\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\SETA\Ders\4. Sınıf\Güz\Sayısal Görüntü İşleme\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SETA\Ders\4. Sınıf\Güz\Sayısal Görüntü İşleme\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\SETA\Ders\4. Sınıf\Güz\Sayısal Görüntü İşleme\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SETA\Ders\4. Sınıf\Güz\Sayısal Görüntü İşleme\Goruntu_Isleme_Tam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
